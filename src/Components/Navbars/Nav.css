@@ -1,0 +1,104 @@
+nav{
+    /* background-color:transparent !important; */
+    padding-bottom: 0 !important;
+    position: fixed !important;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 99999;
+    background-image: url(../../Assets/header-bg.webp);
+    background-size:cover;
+}
+.logo{
+    width: 90px;
+    height: 50px;
+}
+.navbar-brand{
+    padding-left: 60px;
+}
+nav .navbar-nav a{
+    color: var(--main-color);
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding-left: 30px;
+    font-size: 16px;
+    transition: all ease 0.3s;
+}
+.linkNav{
+    padding-left: 30px !important;
+}
+.navbar .phone{
+    color: var(--main-color);
+    letter-spacing: 1px;
+    padding: 5px;
+    transition: all ease 0.3s;
+    background-color: rgb(196,162,252,0.6);
+    border-radius: 4px;
+    margin-left: 20px;
+
+}
+.navbar a{
+    color: var(--main-color);
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 16px;
+    transition: all ease 0.3s;
+    padding-top: 8px;
+}
+nav .navbar-nav a:hover,
+.navbar a:hover,
+nav .navbar-nav a:focus{
+    color: var(--second-color) !important;
+}
+nav .navbar-nav .active{
+    color:var(--second-color) !important;
+}
+.navbar-nav .dropdown-menu {
+    position: static;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 0px;
+    width: 200px;
+    box-shadow: 2px 2px 5px rgb(228, 225, 225);
+}
+.navbar-nav .dropdown-menu a{
+    color: #444;
+    font-size: 14px;
+    line-height: 30px !important;
+    position: relative;
+}
+.navbar-nav .dropdown-menu a .brdr{
+    position: absolute;
+    bottom: 2px;
+    left: 10px;
+    width: 0px;
+    height: 1px;
+    background-color: var(--btn-color);
+    opacity: 0;
+    transition: all ease-in-out 0.4s;
+}
+.navbar-nav .dropdown-menu a:hover{
+    color:var(--btn-color) !important;
+}
+.navbar-nav .dropdown-menu a:hover .brdr{
+    opacity: 1;
+    width: 140px;
+}
+
+nav button{
+    background-color: var(--btn-color) !important;
+    border: 1px solid var(--btn-color) !important;
+    margin-right: 10px;
+}
+nav button:focus{
+    box-shadow: 2px 2px 10px var(--btn-color) !important;
+}
+
+@media only screen and (max-width:992px){
+    .navbar-nav .dropdown-menu{
+        width: 100% !important;
+    }
+}
+.sub-links{
+    padding-left: 0 !important;
+}

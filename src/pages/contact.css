@@ -1,0 +1,26 @@
+.contact{
+    border: 1px solid #ccc;
+    box-shadow: 5px 5px 9px rgb(228, 225, 225);
+    border-radius: 5px;
+    background-color: #fff;
+}
+form button{
+    background-color: var(--second-color) !important;
+    color: #fff !important;
+}
+form button:hover{
+    background-color: #e46d49 !important;
+    color: #fff !important;
+}
+.side{
+    background-image: url(../Assets/sideimg.avif);
+    background-size: cover;
+    border-radius: 8px;
+
+}
+.side .overlay{
+    background-color: #565acf;
+    border-radius: 8px;
+    opacity: 0.8;
+    padding: 20px;
+}

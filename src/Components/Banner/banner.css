@@ -1,0 +1,32 @@
+.banner{
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    padding: 30px 0px;
+    background-image: url(../../Assets/header-bg.webp);
+    background-size: cover;
+
+}
+.banner h2{
+    color: var(--main-color);
+    font-size: 80px;
+    margin: 20px 0px;
+    font-weight: bold;
+    line-height: 120px;
+
+}
+.banner span{
+    background-color: var(--btn-color);
+    border: 1px solid var(--btn-color);
+    text-align: center;
+    color: #fff;
+    line-height: 50px;
+    border-radius: 8px;
+    font-size: 17px;
+    text-transform: uppercase;
+    display: inline;
+    padding: 10px 18px;
+}
+.banner span a{
+    color: #fff;
+}

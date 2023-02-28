@@ -1,0 +1,57 @@
+.services h6{
+    color: var(--second-color);
+    padding-left: 8px;
+    font-weight: 600;
+    font-size: larger;
+}
+.services h2{
+    color: var(--main-color);
+}
+.services p{
+    color: rgb(82, 82, 105);
+}
+.services button{
+    background-color: var(--second-color);
+    color: #fff;
+    margin-top: 25px;
+}
+.services button:hover{
+    background-color: #e46d49;
+    color: #fff;
+}
+.services{
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgb(228, 225, 225);
+    border-radius: 5px;
+    background-color: #fff;
+}
+.serv{
+    border: solid 1px var(--btn-color);
+    box-shadow: 3px 3px 8px  rgb(196,162,252);
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 25px;
+    background-color: #fffefa;
+}
+.serv i{
+    color: var(--main-color);
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgb(228, 225, 225);
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.serv h5{
+    color: var(--main-color);
+}
+.serv p{
+    color: rgb(82, 82, 105);
+}
+.serv button{
+    background-color:  rgb(199,165,255);
+    color: #fff;
+}
+.serv button:hover{
+    color: #fff;
+    background-color: rgb(163, 133, 212);
+}

@@ -1,0 +1,77 @@
+.about img{
+    width: 45%;
+}
+.doc1{
+    box-sizing: border-box;
+    border-top-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+    margin-right: 15px;
+}
+.doc2{
+    box-sizing: border-box;
+    border-top-left-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    margin-right: 15px;
+}
+.doc3{
+    box-sizing: border-box;
+    border-top-right-radius: 20%;
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    margin-right: 15px;
+    margin-top: 10px;
+}
+.years{
+    box-sizing: border-box;
+    border-top-left-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-top-right-radius: 20%;
+    margin-right: 15px;
+    background-color: rgb(196,162,252,0.6);
+    color: var(--btn-color);
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 10px;
+    border: solid 1px var(--btn-color);
+}
+.years h1{
+    font-weight: 800;
+    line-height: 38px;
+}
+.years h4{
+    font-weight: 500;
+}
+.about-caption h6{
+    color: var(--second-color);
+    padding-left: 8px;
+    font-weight: 600;
+    font-size: larger;
+}
+.about-caption h2{
+    color: var(--main-color);
+}
+.about-caption p{
+    color: rgb(82, 82, 105);
+}
+.about-caption a{
+    border: solid 1px rgb(148, 238, 238);
+    box-shadow: 1px 1px 5px rgba(148, 238, 238,0.8);
+    padding: 10px 15px;
+    margin: 10px 15px 10px 0px !important;
+    color: var(--main-color) !important;
+    background-color: rgba(148, 238, 238,0.2);
+}
+.about-caption i{
+    color: var(--btn-color);
+}
+.about-caption button{
+    background-color: var(--btn-color);
+    color: #fff;
+    margin-top: 15px;
+}
+.about-caption button:hover{
+    background-color: #4a4eb3;
+    color: #fff;
+}

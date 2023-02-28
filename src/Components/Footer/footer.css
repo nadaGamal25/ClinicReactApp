@@ -1,0 +1,64 @@
+.footer-container{
+background-color: #f1f7fa;
+}
+.footer-container p{
+    color: var(--main-color);
+    padding: 10px 20px 10px 0px;
+    font-weight: 500;
+}
+.footer-contact i{
+    color: #fff;
+    background-color: var(--second-color);
+    padding: 10px 10px 0px 10px;
+    border-radius: 50%;
+    height: 35px;
+    margin-right: 5px;
+}
+.footer-contact h6{
+    color: var(--second-color);
+}
+.footer-contact h4{
+    color:var(--main-color);
+    font-weight: 600;
+    font-size: 16px;
+}
+.footer-container h2,span{
+    color: var(--main-color);
+}
+.footer-container a{
+    color: var(--main-color) !important;
+}
+.footer-container ul{
+    padding-left: 0%;
+}
+.footer-container li{
+    margin-bottom: 7px;
+}
+.footer-container .mailBtn{
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgb(228, 225, 225);
+    padding:10px 0px ;
+}
+.footer-container .subscribeBtn{
+    color: #fff;
+    background-color: var(--second-color);
+    border: 1px solid var(--second-color);
+    display: block !important;
+}
+.subscribeBtn:hover{
+    color: #fff !important;
+    background-color: var(--second-color) !important ;
+    border: 1px solid var(--second-color);
+    display: block !important;
+}
+.footer-container .sochial-icon i{
+    color: var(--btn-color);
+    font-size: 24px;
+    margin-right: 15px;
+}
+.line{
+    width: 80%;
+    height: 1px;
+    margin: auto;
+    background-color: rgb(213, 216, 216);
+}
