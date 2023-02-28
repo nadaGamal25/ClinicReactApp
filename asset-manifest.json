@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ClinicReactApp/static/css/main.5bd47c77.css",
+    "main.js": "/ClinicReactApp/static/js/main.792bb598.js",
+    "static/js/787.ac34fb11.chunk.js": "/ClinicReactApp/static/js/787.ac34fb11.chunk.js",
+    "static/media/fa-solid-900.ttf": "/ClinicReactApp/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/doc7.png": "/ClinicReactApp/static/media/doc7.489164ab22af39083b59.png",
+    "static/media/fa-brands-400.ttf": "/ClinicReactApp/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/ClinicReactApp/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/ClinicReactApp/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/headerImg.png": "/ClinicReactApp/static/media/headerImg.8020c7eb8fc90149b496.png",
+    "static/media/doctors2.jpg": "/ClinicReactApp/static/media/doctors2.17a0a4a29f9ed06a08cf.jpg",
+    "static/media/doc4.jpg": "/ClinicReactApp/static/media/doc4.c1c65ae501160c3cd0a6.jpg",
+    "static/media/fa-regular-400.ttf": "/ClinicReactApp/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/sideimg.avif": "/ClinicReactApp/static/media/sideimg.2257ee4c9522d3d60910.avif",
+    "static/media/blog1.jpg": "/ClinicReactApp/static/media/blog1.fd99ff8cd123d67e174b.jpg",
+    "static/media/doctors.webp": "/ClinicReactApp/static/media/doctors.6e0c04b0a13810408ec6.webp",
+    "static/media/header-bg.webp": "/ClinicReactApp/static/media/header-bg.7b5d1cf258efa9d92aa7.webp",
+    "static/media/doctors3.jpg": "/ClinicReactApp/static/media/doctors3.63b8d05edc02de570ea6.jpg",
+    "static/media/logo2.png": "/ClinicReactApp/static/media/logo2.6f33032da8cbcb6750f0.png",
+    "static/media/fa-regular-400.woff2": "/ClinicReactApp/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/doc6.jpg": "/ClinicReactApp/static/media/doc6.32544a5e018162b51331.jpg",
+    "static/media/blog3.webp": "/ClinicReactApp/static/media/blog3.5a4173515aad2c60ef66.webp",
+    "static/media/blog2.jfif": "/ClinicReactApp/static/media/blog2.08b354f24ddddeb3acb2.jfif",
+    "static/media/fa-v4compatibility.ttf": "/ClinicReactApp/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ClinicReactApp/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/ClinicReactApp/index.html",
+    "main.5bd47c77.css.map": "/ClinicReactApp/static/css/main.5bd47c77.css.map",
+    "main.792bb598.js.map": "/ClinicReactApp/static/js/main.792bb598.js.map",
+    "787.ac34fb11.chunk.js.map": "/ClinicReactApp/static/js/787.ac34fb11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd47c77.css",
+    "static/js/main.792bb598.js"
+  ]
+}
